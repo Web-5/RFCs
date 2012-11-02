@@ -9,8 +9,8 @@ We are just gathering them all in one place for commodity's sake.
 Although these may be used as models, they are mainly thought as a structure for Web-5 Conferences. Hence one should not take for granted everything written here for just any conference :)
 
 In this repository you will find conventions about : <ul>
-<li><a href="http://github.com/Web-5/RFCs/blob/master/OpenConfExpectations-speakers.md" title="Open COnference Expectations for Speakers">Speakers</a></li>
-<li>Attendees</li>
+<li><a href="http://github.com/Web-5/RFCs/blob/master/OpenConfExpectations-speakers.md" title="Open Conference Expectations for Speakers">Speakers</a></li>
+<li><a href="http://github.com/Web-5/RFCs/blob/master/PledgeToOurAttendees.md" title="Our Pledge to our Attendees">Attendees</a></li>
 <li>Conferences</li>
 <li>Organizers</li>
 </ul>
