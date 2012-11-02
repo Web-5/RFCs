@@ -9,11 +9,25 @@ This is not an exhaustive list as some of the things mentioned might be done or 
 ## What We, Conference Organizers, will do for our Attendees
 
 1. **Website**: We will provide an accurate and updated Website at least until the conference last day so that our attendees can always refer to the website for informations.
+
 1. **Speakers and Topics**: We will announce Speakers and topics at the very least 1 month before the conference's date and before the last ticket being sold. 
 This does, of course, not include last minute changes which cannot alays be planned ahead. While we understand that some Conference would rather keep it a surprise, we consider that professional giving of their time to attend informative and expert level conference appreciate knowing, beforehand, what they will see at the conf.
+
 1. **Schedule**: The complete Schedule should be announced before the last ticket being sold. Again, in order to have attendees able to properly plan things ahead, we commit to give them the information about the schedule ahead enough of time.
 Some of you might not make it for the whole duration of the conference, and then would probably be happy to be able to choose what day you'll be attending. This, again, cannot take into account last minute changes.
+
 1. **Not only a website**: We will give our attendees a paper schedule, the day of the conf, with the talks hours, break times, lunch time and location, etc.
+
 1. **Wifi**: While this is a pain to handle for organizers, we will try our best to supply a working and fast enough wifi connexion, not only to our speakers, but to our attendees aswell.
 We will reserve ourselves the right to monitor and cancel the free connexion for people abusing and making it a pain for everybody else.
-1. **Power supply**:If possible, we will try to provide a sufficient power supply for our attendees to take notes during the conference.
+
+1. **Power supply**: If possible, we will try to provide a sufficient power supply for our attendees to take notes during the conference.
+
+1. **Food**: If the ticket price is over 300$, we will provide free meals for the duration of the conference to our attendees.
+
+1. **Hotels**: If possible, we will try to negociate discounts in hotels for our attendees. While not always possible neither mandatory, this is definitly a plus we consider important.
+
+1. **Time**: We will provide enough free time and breaks for our attendees to meet and chat with other attendees and speakers. This is one of the reason we are doing conferences, and we'll try hard to balance contents and get together times.
+
+1. **Party**: While not the most important thing (though some might argue about this ^^), we consider that spending some good times all together, making nice memories, and helping the community get together is one of the things that really make a conference shine.
+We will try our best to make the party time great, with some animations but also some quieter times to chat.
